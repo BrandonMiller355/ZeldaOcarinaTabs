@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ZeldaOcarinaTabs</string>
+    <string name="main_list_header">Zelda Ocarina Tabs</string>
+    <string name="title_song_detail">Song Detail</string>
+</resources>
