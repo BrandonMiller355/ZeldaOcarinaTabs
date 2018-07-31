@@ -49,7 +49,7 @@ class SongDetailFragment : Fragment() {
 
             //TODO: Brandon - put this in the SongItemContent file instead
             when(arguments.get(ARG_ITEM_ID)) {
-                "1" -> rootView.song_detail_tab.setImageResource(R.drawable.zeldaslullaby)
+                "1" -> rootView.song_detail_tab.setImageResource(R.drawable.zeldaslullaby2)
                 "2" -> rootView.song_detail_tab.setImageResource(R.drawable.zeldaslullaby)
                 else -> {
                     //do nothing
