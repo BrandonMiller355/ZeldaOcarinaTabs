@@ -51,6 +51,7 @@ class SongDetailFragment : Fragment() {
             when(arguments.get(ARG_ITEM_ID)) {
                 "1" -> rootView.song_detail_tab.setImageResource(R.drawable.zeldaslullaby2)
                 "2" -> rootView.song_detail_tab.setImageResource(R.drawable.zeldaslullaby)
+                "3" -> rootView.song_detail_tab.setImageResource(R.drawable.zeldaslullaby2)
                 else -> {
                     //do nothing
                     }
